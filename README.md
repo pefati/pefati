@@ -1,9 +1,11 @@
-## Hi there 👋
+## Hi there, i am pefati 👋
 
-<!--
-**pefati/pefati** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!-- STATS GENERALES -->
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=b0rrajo&show_icons=true&theme=dark)
 
-Here are some ideas to get you started:
+<!-- LENGUAJES MÁS USADOS -->
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=b0rrajo&layout=compact&theme=dark)
+
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -13,4 +15,3 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
