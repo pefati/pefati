@@ -1,10 +1,10 @@
 ## Hi there, i am pefati 👋
 
 <!-- STATS GENERALES -->
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=b0rrajo&show_icons=true&theme=dark)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=pefati&show_icons=true&theme=dark)
 
 <!-- LENGUAJES MÁS USADOS -->
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=b0rrajo&layout=compact&theme=dark)
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pefati&layout=compact&theme=dark)
 
 
 - 🔭 I’m currently working on ...
