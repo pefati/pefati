@@ -30,7 +30,7 @@
 
 ### 🎧 Currently Listening on Spotify
 <p align="center">
-  <img src="https://spotify-github-profile.vercel.app/api/view?uid=TU_UID_SPOTIFY&cover_image=true&theme=novatorem&show_offline=false&background_color=121212" alt="Spotify Now Playing" width="60%"/>
+  <img src="https://spotify-github-profile.vercel.app/api/view?uid=7dtfn18tgc9gq1qk1x3z6o529&cover_image=true&theme=novatorem&show_offline=false&background_color=121212" alt="Spotify Now Playing" width="60%"/>
 </p>
 
 ## 🚀 About Me
