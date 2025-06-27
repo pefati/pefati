@@ -26,16 +26,6 @@
   <img src="https://github-profile-trophy.vercel.app/?username=pefati&theme=radical&no-frame=true&margin-w=10&margin-h=10" alt="Trophies" />
 </p>
 
-
-
-### 🎧 Currently Listening on Spotify
-<p align="center">
-  <!-- GIF animado que rote portadas cada 5s; el link lleva a tu perfil de Spotify -->
-  <a href="https://open.spotify.com/user/7dtfn18tgc9gq1qk1x3z6o529?si=61f65605b3b6471e">
-    <img src="assets/spotify.gif" width="320" alt="My Spotify Playlists"/>
-  </a>
-</p>
-
 ## 🚀 About Me
 - 🔭 I’m currently working on **2D Video Games** & **Web Apps** with React  
 - 🌱 I’m learning **Game Physics**, **Shader Programming** & **Advanced React Hooks**  
