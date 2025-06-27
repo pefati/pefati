@@ -30,7 +30,10 @@
 
 ### 🎧 Currently Listening on Spotify
 <p align="center">
-    <img src="https://spotify-github-profile.vercel.app/api/view?uid=7dtfn18tgc9gq1qk1x3z6o529&theme=novatorem&show_offline=false" alt="Spotify Now Playing" width="60%"/>
+  <!-- GIF animado que rote portadas cada 5s; el link lleva a tu perfil de Spotify -->
+  <a href="https://open.spotify.com/user/7dtfn18tgc9gq1qk1x3z6o529?si=61f65605b3b6471e">
+    <img src="assets/spotify.gif" width="320" alt="My Spotify Playlists"/>
+  </a>
 </p>
 
 ## 🚀 About Me
