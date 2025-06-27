@@ -1,5 +1,8 @@
 ## Hi there, i am pefati 👋
 
+https://github-readme-stats.vercel.app/api?username=TUUSUARIO&hide_border=true&bg_color=00000000
+
+
 <!-- STATS GENERALES -->
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=pefati&show_icons=true&theme=dark)
 
