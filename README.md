@@ -5,7 +5,7 @@
   <img src="https://img.shields.io/badge/Status-🚀%20Coding-blue" alt="Status"/>
 </p>
 
-<h1 align="center">👋 Hi, I’m <a href="https://github.com/pefati">pefati</a></h1>
+<h1 align="center">👋 Hi, I’m <a href="https://miaula.net/pefati">pefati</a></h1>
 <p align="center">🎮 Game Dev & Full-Stack Web Dev | 📚 Student </p>
 
 <p align="center">
