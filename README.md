@@ -18,13 +18,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pefati&layout=compact&theme=dark&border_radius=10" width="48%" />
 </p>
 
-<p align="center">
-  <img src="https://activity-graph.vercel.app/graph?username=pefati&theme=react-dark&area=true&hide_border=true" alt="Contribution graph" width="100%"/>
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=pefati&theme=radical&no-frame=true&margin-w=10&margin-h=10" alt="Trophies" />
-</p>
 
 ## 🚀 About Me
 - 🔭 I’m currently working on **2D Video Games** & **Web Apps** with React  
