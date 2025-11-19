@@ -12,13 +12,6 @@
   <a href="https://x.com/Francopefati"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
 </p>
 
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=pefati&show_icons=true&theme=dark&border_radius=10" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pefati&layout=compact&theme=dark&border_radius=10" width="48%" />
-</p>
-
-
 ## 🚀 About Me
 - 🔭 I’m currently working on **2D Video Games** & **Web Apps** with React  
 - 🌱 I’m learning **Game Physics**, **Shader Programming** & **Advanced React Hooks**  
