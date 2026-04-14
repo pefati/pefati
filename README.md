@@ -6,16 +6,16 @@
 </p>
 
 <h1 align="center">👋 Hi, I’m <a href="https://miaula.net/pefati">pefati</a></h1>
-<p align="center">🎮 Game Dev & Full-Stack Web Dev | 📚 Student </p>
+<p align="center">🎮 Full-Stack Dev | 📚 Student </p>
 
 <p align="center">
   <a href="https://x.com/Francopefati"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
 </p>
 
 ## 🚀 About Me
-- 🔭 I’m currently working on **2D Video Games** & **Web Apps** with React  
-- 🌱 I’m learning **Game Physics**, **Shader Programming** & **Advanced React Hooks**  
-- 💬 Ask me about **Java**, **PHP**, **C**, **C#**, **JavaScript**, **React**, **Python**  
+- 🔭 I’m currently working on **2D Video Games**
+- 🌱 I’m learning **Game Physics** & **Shader Programming**
+- 💬 Ask me about **Java**, **PHP**, **C**, **JavaScript**, **React**, **Python**, **Redis**  
 
 ## 🛠️ Tech Stack
 
